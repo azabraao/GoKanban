@@ -1,0 +1,136 @@
+c:\users\w8.1\documents\visual studio 2010\Projects\Go\Go\bin\Debug\Go.exe
+c:\users\w8.1\documents\visual studio 2010\Projects\Go\Go\bin\Debug\Go.pdb
+c:\users\w8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+c:\users\w8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.csproj.GenerateResource.Cache
+c:\users\w8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.exe
+c:\users\w8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.TelaProjetos.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\W8.1\Documents\Visual Studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.frmNovoProjeto.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.ConfigTarefa.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefa.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna2.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna3.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.TelaConfigProjeto.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.exe
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.pdb
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\bin\Debug\Go.exe
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\bin\Debug\Go.pdb
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.Form1.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.ConfigTarefa.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.frmNovoProjeto.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaConfigProjeto.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefa.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna2.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna3.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaProjetos.resources
+C:\Users\Lais\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.exe
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.pdb
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\bin\Debug\Go.exe
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\bin\Debug\Go.pdb
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.Form1.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.ConfigTarefa.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.frmNovoProjeto.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaConfigProjeto.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefa.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna2.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna3.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.VIEW.TelaProjetos.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Abraão\Go_v15 Com pomodoro e inicio e fim de tarefa\Go\obj\x86\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\W8.1\Documents\Visual Studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.telaUsuario.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.ConfidencializaProjeto.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.Login.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.LoginProjeto.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.RelatorioProjeto.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Debug\Go.VIEW.ConfiguracoesGo.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.Login.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.ConfidencializaProjeto.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.ConfigTarefa.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.frmNovoProjeto.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.ConfiguracoesGo.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.LoginProjeto.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.RelatorioProjeto.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaConfigProjeto.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefa.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna2.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna3.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaProjetos.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.telaUsuario.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\Lais\Desktop\Go\Go\bin\Debug\Go.exe
+C:\Users\Lais\Desktop\Go\Go\bin\Debug\Go.pdb
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.exe
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.pdb
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.Login.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.ConfidencializaProjeto.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.ConfigTarefa.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.frmNovoProjeto.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.ConfiguracoesGo.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.LoginProjeto.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.RelatorioProjeto.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaConfigProjeto.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefa.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna2.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna3.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.TelaProjetos.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.telaUsuario.resources
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\W8.1\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.Desconfidencialiacao.resources
+C:\Users\W8.1\Desktop\Go\Go\bin\Debug\Go.exe
+C:\Users\W8.1\Desktop\Go\Go\bin\Debug\Go.pdb
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.VIEW.Desconfidencialiacao.resources
+C:\Users\Lais\Desktop\Go\Go\obj\x86\Debug\Go.exe.licenses
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.exe
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.pdb
+F:\Go_FINALZÃO\Go\bin\Debug\Go.exe
+F:\Go_FINALZÃO\Go\bin\Debug\Go.pdb
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.csprojResolveAssemblyReference.cache
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.Login.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.Properties.Resources.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.ConfidencializaProjeto.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.ConfigTarefa.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.Desconfidencialiacao.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.frmNovoProjeto.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.ConfiguracoesGo.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.LoginProjeto.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.RelatorioProjeto.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.TelaConfigProjeto.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefa.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna2.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna3.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.TelaProjetos.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.VIEW.telaUsuario.resources
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.csproj.GenerateResource.Cache
+F:\Go_FINALZÃO\Go\obj\x86\Debug\Go.exe.licenses
+C:\Users\Lais\Desktop\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.exe
+C:\Users\Lais\Desktop\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.pdb
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.exe
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.pdb
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\bin\Debug\Go.exe
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\bin\Debug\Go.pdb
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.csprojResolveAssemblyReference.cache
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.Login.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.Properties.Resources.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaConfigProjeto.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna2.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna3.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.csproj.GenerateResource.Cache
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.exe.licenses
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaConfidencializaProjeto.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaConfigTarefa.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaDesconfidencialiacao.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaRelatorioProjeto.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaNovoProjeto.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaNovaTarefaColuna1.resources
+C:\Users\W8.1\Google Drive\TCC\#ProjetoGO\Gabriel\Go_PRÉ BANCA\Go\obj\x86\Debug\Go.VIEW.TelaProjeto.resources

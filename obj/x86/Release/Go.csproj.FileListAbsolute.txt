@@ -1,0 +1,7 @@
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Release\Go.csprojResolveAssemblyReference.cache
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Release\Go.Form1.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Release\Go.Properties.Resources.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Release\Go.VIEW.ConfigTarefa.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Release\Go.VIEW.frmNovoProjeto.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Release\Go.VIEW.TelaProjetos.resources
+C:\Users\W8.1\documents\visual studio 2010\Projects\Go\Go\obj\x86\Release\Go.csproj.GenerateResource.Cache
